@@ -4,7 +4,8 @@
 👨🏻‍💻Práctica de **programación visual con bloques** en Arduino  
     
 ### Software  
-- Programado con [OttoBlokly](https://github.com/OttoDIY/blockly)
+- Programado con [OttoBlokly](https://github.com/OttoDIY/blockly)  
+- Repositorio [Otto](https://www.ottodiy.com/)  
 - Este código realiza las siguientes funciones simples:  
 -- Sonido melodía Simpson  
 -- Medición de distancia de obstáculo con diferentes reacciones  
@@ -17,7 +18,7 @@
 - Ultrasonic sensor
 
 ### Montaje  
-![Imagen](/Images/Imagen.jpeg)  
+![Imagen](/Images/Image3.jpg)  
 🔧 Conexiones a pines Arduino UNO:  
 - A00 =  
 - A01 =  
