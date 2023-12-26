@@ -6,7 +6,7 @@
 <img src="/Images/Image5.JPEG" width="300"/>   
     
 ### Software  
-- Programado con [OttoBlokly](https://github.com/OttoDIY/blockly)  
+- Programado con [OttoBlockly](https://github.com/OttoDIY/blockly)  
 - Repositorio [Otto](https://www.ottodiy.com/)  
 - Este código realiza las siguientes funciones simples:  
 -- Sonido melodía Simpson  
