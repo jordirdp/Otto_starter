@@ -18,7 +18,7 @@
 - Ultrasonic sensor
 
 ### Montaje  
-![Imagen](/Images/Image3.jpg)  
+![Imagen](/Images/Image4.JPEG)  
 🔧 Conexiones a pines Arduino UNO:  
 - A00 =  
 - A01 =  
