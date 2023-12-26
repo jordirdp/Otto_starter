@@ -2,6 +2,8 @@
 🔗Creado por [Jordi Rodriguez](https://github.com/jordirdp)  
 
 👨🏻‍💻Práctica de **programación visual con bloques** en Arduino  
+
+<img src="/Images/Image5.JPEG" width="300"/>   
     
 ### Software  
 - Programado con [OttoBlokly](https://github.com/OttoDIY/blockly)  
@@ -18,7 +20,8 @@
 - Ultrasonic sensor
 
 ### Montaje  
-![Imagen](/Images/Image4.JPEG)  
+<img src="/Images/Image1.jpg" height="300"/> <img src="/Images/Image2.jpg" height="300"/>  <img src="/Images/Image4.JPEG" height="300"/>  
+
 🔧 Conexiones a pines Arduino UNO:  
 - A00 =  
 - A01 =  
